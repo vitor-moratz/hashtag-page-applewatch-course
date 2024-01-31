@@ -55,4 +55,3 @@ function trocarCor() {
 
     imagemVisualizacao.src = `src/images/opcoes-cores/${corSelecionadaObj.pasta}/imagem-${imagemSelecionada}.jpeg`;
 }
-
